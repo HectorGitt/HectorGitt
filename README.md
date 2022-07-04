@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hectordev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hectordev" /></a></p><br><br>
 
-![Dev hector GitHub stats](https://github-readme-stats.vercel.app/api?username=HeectorGitt&show_icons=true)
+![Dev hector GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorGitt&show_icons=true)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorgitt&show_icons=true&locale=en&layout=compact" alt="hectorgitt" /></p>
