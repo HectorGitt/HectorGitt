@@ -33,7 +33,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorgitt&show_icons=true&locale=en&layout=compact" alt="hectorgitt" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorgitt&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorgitt&theme=tokyonight)" alt='hectorgitt'/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorgitt&show_icons=true&locale=en" alt="hectorgitt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorgitt&" alt="hectorgitt" /></p>
