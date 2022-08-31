@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Expanding my Fullstack skills**
 
-- 🌱 I’m currently learning **Django and Typescript**
+- 🌱 I’m currently learning **Django, Flask and Typescript**
 
 - 👯 I’m looking to collaborate on **any project**
 
