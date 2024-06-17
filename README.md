@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://devhector.netlify.app](https://devhector.netlify.app)
+- 👨‍💻 All of my projects are available at [deniyi.dev](https://deniyi.dev)
 
 - 💬 Ask me about **React, Twitter API, Bootstrap**
 
