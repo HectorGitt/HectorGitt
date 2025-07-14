@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ntentionalhuman" target="blank"><img src="https://img.shields.io/twitter/follow/ntentionalhuman?logo=twitter&style=for-the-badge" alt="ntentionalhuman" /></a> </p>
 
-- 🔭 I’m currently working on **Expanding my Fullstack skills**
+- 🔭 **Software Architect**
 
-- 🌱 I’m currently learning **Django, Flask and Typescript**
+- 🌱 I Work with **Django, Flask, FastAPI, Next and Typescript**
 
-- 👯 I’m looking to collaborate on **any project**
-
-- 👨‍💻 All of my projects are available at [deniyi.dev](https://deniyi.dev)
-
-- 💬 Ask me about **React, Twitter API, Bootstrap**
+- 👨‍💻 some of my projects are available at [deniyi.dev](https://deniyi.dev)
 
 - 📫 How to reach me **adeniyi.olaitanhector@yahoo.com**
 
