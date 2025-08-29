@@ -11,7 +11,7 @@
 
 - 🌱 I Work with **Django, Flask, FastAPI, Next and Typescript**
 
-- 👨‍💻 some of my projects are available at [deniyi.dev](https://deniyi.dev)
+- 👨‍💻 some of my projects are available at [deniyi.link](https://deniyi.link)
 
 - 📫 How to reach me **adeniyi.olaitanhector@yahoo.com**
 
