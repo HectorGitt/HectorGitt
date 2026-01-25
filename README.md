@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://deniyi.link"><strong>🌐 Portfolio: deniyi.link</strong></a> •
   <a href="https://twitter.com/deniyined"><strong>🐦 Twitter</strong></a> •
-  <a href="https://www.linkedin.com/in/hector-adeniyi"><strong>💼 LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/deniyiola"><strong>💼 LinkedIn</strong></a>
 </p>
 
 <p align="center">
