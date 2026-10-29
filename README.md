@@ -1,79 +1,69 @@
 <h1 align="center">Hi, I'm Ola 👋</h1>
 
-<h3 align="center">Systems Engineer | AI Architect | First Class Honours Graduate</h3>
+<h3 align="center">Systems engineer · Full-stack architect · First Class Honours, Agricultural & Environmental Engineering</h3>
 
 <p align="center">
-  I engineer autonomous agents, optimize complex logistics systems, and build high-performance backends.
+  I build systems that have to obey physics as well as a spec: routing engines, telemetry pipelines, agent networks and engineering simulators.
 </p>
 
 <p align="center">
-  <a href="https://deniyi.link"><strong>🌐 Portfolio: deniyi.link</strong></a> •
-  <a href="https://twitter.com/deniyined"><strong>🐦 Twitter</strong></a> •
-  <a href="https://www.linkedin.com/in/deniyiola"><strong>💼 LinkedIn</strong></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hectorgitt&label=Profile%20Views&color=0e75b6&style=flat-square" alt="hectorgitt" />
+  <a href="https://deniyi.link"><strong>🌐 deniyi.link</strong></a> •
+  <a href="https://www.linkedin.com/in/deniyiola"><strong>💼 LinkedIn</strong></a> •
+  <a href="https://medium.com/@deniyi_dev"><strong>✍️ Medium</strong></a> •
+  <a href="https://twitter.com/deniyined"><strong>🐦 X</strong></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About
 
-I am a **First Class Honours** graduate in Agricultural and Environmental Engineering from **OAU**. I bridge the gap between heavy engineering logic and modern software architecture.
-
-My focus is **Applied AI** and **System Optimization**. I don't just wrap APIs; I build the orchestration engines, state machines, and mathematical models that make agents reliable.
-
-- 🔭 **Currently Building:** **Enzo** (Autonomous Professional Identity Agent) & **WatchWay** (Infrastructure Registry).
-- 🏆 **Recent Wins:** Built solutions for the **Google Cloud Run Hackathon** and **Google Chrome Built-in AI Challenge**.
-- 🧠 **Core Interests:** Multi-Agent Systems, Mixed-Integer Programming (Logistics), and Voice-Native Interfaces.
+- 🏢 **Now:** Lead full-stack & infrastructure engineer at **Peepalytics**: Airflow/Kafka ETL (60x faster), RAG and multi-agent systems on AWS (98.7% lower retrieval latency).
+- 🚜 **Building:** **[Solidify](https://solidify.studio)**, interactive 3D cutaways of tractors and farm machinery with live engineering calculations.
+- 🎓 **Background:** First Class Honours, top of the department, Agricultural & Environmental Engineering, OAU.
+- 🔭 **Looking for:** doctoral research in robotics, perception and autonomy (2027 entry), and software roles where optimisation and reliability matter.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Selected work
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **🚜 [Solidify](https://solidify.studio)** | 66 interactive 3D cutaways across 12 tractor systems. Slice, explode and run each machine while the calculation behind every motion updates live. | `TypeScript` `three.js` `R3F` |
+| **🛰️ [EagleSight](https://github.com/HectorGitt/eagle-fleet-command)** | Fleet scheduling as a VRPTW mixed-integer program, plus a fluid-mechanics model over telemetry that predicts engine breakdown. | `Python` `OR-Tools` |
+| **🤖 [Enzo](https://github.com/HectorGitt/enzo)** | Career copilot. Ingests GitHub webhooks and uses agentic RAG to separate real wins from noise, keeping a resume and profile current. | `Python` `Gemini` `RAG` |
+| **🗺️ [Locus](https://github.com/HectorGitt/Locus)** | Seven specialised agents under one orchestrator (navigation, weather, hazards, language, search…) on Google ADK. | `Python` `Google ADK` |
+| **🇳🇬 [WatchWay](https://watchway.stabilty.com/)** | Crowdsourced registry of Nigerian infrastructure decay, ranked by hazard severity, with a per-state accountability tracker. | `TypeScript` `GIS` |
+| **🌍 [Copernican](https://github.com/HectorGitt/copernican)** | Solar system and Earth simulator with orbital mechanics and live NASA EONET hazard data. | `three.js` `NASA EONET` |
+| **🎙️ [Closetic](https://closetic.com)** | Wardrobe platform with a voice stylist on the OpenAI Realtime API. | `React` `FastAPI` |
+| **🧠 DoomDigest** | Chrome extension that summarises content on-device with Gemini Nano. | `JavaScript` `Chrome AI` |
+
+More in the [project index](https://deniyi.link/engineering).
+
+---
+
+### Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Realtime-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 🏗️ Selected Engineering Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🤖 Enzo** | **Autonomous Identity Agent.** Connects to engineering workstreams (GitHub) to find "wins" and autonomously networks/applies for roles. | `TypeScript` `Agents` |
-| **🚜 EagleSight** | **Logistics Optimization Engine.** Solves Vehicle Routing Problems (VRP) using mathematical modeling (Mixed-Integer Programming) to optimize fleet operations. | `Python` `OR-Tools` |
-| **🎙️ Closetic** | **Voice-Native AI OS.** An autonomous fashion assistant integrating the **OpenAI Realtime API** with Computer Vision and Calendar tools. | `Python` `WebSockets` |
-| **🗺️ Locus** | **Multi-Agent Travel System.** Built with **Google ADK**. Uses specialized sub-agents to handle routing, booking, and itinerary planning autonomously. | `Python` `Google ADK` |
-| **🇳🇬 WatchWay** | **Crowdsourced Infrastructure Registry.** Tracks the decay of federal/state infrastructure across Nigeria with geospatial data. | `TypeScript` `Maps` |
-| **🧠 DoomDigest** | **Chrome Built-in AI Extension.** Cures doomscrolling by summarizing content locally using **Gemini Nano**. | `JavaScript` `Chrome AI` |
-
----
-
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hectorgitt&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hectorgitt&theme=tokyonight" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorgitt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hectorgitt&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 <p align="center">
-  📫 <strong>Contact:</strong> <a href="mailto:adeniyi.olaitanhector@yahoo.com">adeniyi.olaitanhector@yahoo.com</a>
+  📫 <a href="mailto:adeniyi.olaitanhector@yahoo.com">adeniyi.olaitanhector@yahoo.com</a>
 </p>
